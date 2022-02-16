@@ -6,8 +6,14 @@ tools created by Power Automate
 1. インポート at [Power Automate](https://japan.flow.microsoft.com/)
 
 # how to use
+## AnalyzeTeamsReactions
+1. 分析対象のチャネルメッセージから起動<br>![起動](./Documents/CallAutomateAnalyzeTeamsReactions.png "起動方法")
+1. Submit で開始<br>![開始](./Documents/PopUpAnalyzeTeamsReactions.png "開始")
+1. 以下での実行結果例<br>![実行例](./Documents/ExecuteSampleAnalyzeTeamsReactions.png "分析結果")
+
 ## SendMessageInfo
 1. リンクコピーが欲しいメッセージから、起動<br>![起動](./Documents/CallAutomate.png "起動方法")
 1. Submit で開始<br>![開始](./Documents/PopUp.png "開始")
 1. 以下での実行結果例<br>![実行例](./Documents/ExecuteSample.png "リンクがある")
+
 
